@@ -1,0 +1,11 @@
+Model Information:
+* title:	(Liminal Space) The Backrooms
+* source:	https://sketchfab.com/3d-models/liminal-space-the-backrooms-8023c8b63fe540229355c27a4f74402e
+* author:	Dave Love SketchFab (https://sketchfab.com/Tyler_Dave)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "(Liminal Space) The Backrooms" (https://sketchfab.com/3d-models/liminal-space-the-backrooms-8023c8b63fe540229355c27a4f74402e) by Dave Love SketchFab (https://sketchfab.com/Tyler_Dave) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
